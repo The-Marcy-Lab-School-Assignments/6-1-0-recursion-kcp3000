@@ -1,7 +1,5 @@
 // Recursion Problem Set: Coding Exercises
 
-const { on } = require("nodemon");
-
 // Calculate and return the total sum using recursive approach
 const sum = (arr) => {
   // let total = 0
